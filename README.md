@@ -31,5 +31,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph.svg">
 </picture>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={aizhao}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
