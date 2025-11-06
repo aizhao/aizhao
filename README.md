@@ -12,7 +12,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I am a **first-year graduate student in Computer Technology at Southwest Petroleum University.**.
+- 🎓 I am a **first-year graduate student in Computer Technology at Southwest Petroleum University**.
 - 🚀 I enjoy delving into these **cutting-edge technologies** and sharing my learning journey.
 - 👥 **QQ:** 2754746505
 - 🤝 Let’s **learn and grow together!**
