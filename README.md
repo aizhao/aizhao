@@ -1,7 +1,45 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HEllo}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I am ZhaoAi}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img src="https://github.com/CodeCodeAscension/CodeCodeAscension/blob/main/assets/37c92bc21bbfe783ae6fd06c6febece1_720w.gif?raw=true" alt="Animated Header" width="100%" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5" alt="Typing SVG" /></a>
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={aizhao}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={aizhao}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://skillicons.dev/icons?i={YOUR_TECH_STACK}&theme=light" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ZhaoAi!" />
+</h1>
+
+<h3 align="center">Computer Technology Graduate Students | Java development enthusiasts | Passionate Tech Learner</h3>
+
+---
+
+### 👨‍🎓 About Me
+
+- 🎓 I am a **first-year graduate student in Computer Technology at Southwest Petroleum University.**.
+- 🚀 I enjoy delving into these **cutting-edge technologies** and sharing my learning journey.
+- 👥 **QQ:** 2754746505
+- 🤝 Let’s **learn and grow together!**
+
+---
+
+### 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringAI-6DB33F?logo=spring&logoColor=white" height="30" title="Spring AI" />
+  <img src="https://img.shields.io/badge/MCP-FF9900?logo=code&logoColor=white" height="30" title="MCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring" />
+  <img src="https://img.shields.io/badge/Nacos-00BFFF?logo=apache&logoColor=white" height="30" title="Nacos" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" title="RabbitMQ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="30" title="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux" />
+</p>
+---
+
+### 🎮 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph.svg">
+</picture>
