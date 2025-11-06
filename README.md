@@ -21,17 +21,7 @@
 
 ### 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" width="30" title="Cpp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring" />
-  <img src="https://img.shields.io/badge/Nacos-00BFFF?logo=apache&logoColor=white" height="30" title="Nacos" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="30" title="Maven" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux" />
-</p>
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 ---
 
 ### 🎮 Contribution Graph
@@ -41,3 +31,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/CodeCodeAscension/CodeCodeAscension/output/pacman-contribution-graph.svg">
 </picture>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={aizhao}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
