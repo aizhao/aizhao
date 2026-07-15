@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ZhaoAi!" />
 </h1>
 
-<h3 align="center">Computer Technology Graduate Students | Java development enthusiasts | Passionate Tech Learner</h3>
+<h3 align="center">Computer Technology Graduate Students | Agent\Ai development enthusiasts | Passionate Tech Learner</h3>
 
 ---
 
@@ -15,13 +15,14 @@
 - 🎓 I am a **first-year graduate student in Computer Technology at Southwest Petroleum University**.
 - 🚀 I enjoy delving into these **cutting-edge technologies** and sharing my learning journey.
 - 👥 **QQ:** 2754746505
+- 📧 **email:** zhaoai0717@gmail.com
 - 🤝 Let’s **learn and grow together!**
 
 ---
 
 ### 🛠️ Skills & Tools
 
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,spring,redis,java,html,css,js,ts,vue,md,&theme=dark" />
+<img align="center" src="https://skillicons.dev/icons?i=py,fastapi,git,c,cpp,spring,redis,java,html,css,js,ts,vue,md,&theme=dark" />
 ---
 
 ### 🎮 Contribution Graph
